@@ -1,0 +1,15 @@
+ID,Age,Income,Student,Credit,Buy
+1,Young,High,No ,Fair,no
+2,Young,High,No ,Excellent,no
+3,Medium,High,No ,Fair,yes
+4,Old,Medium,No ,Fair,yes
+5,Old,Low,Yes,Fair,yes
+6,Old,Low,Yes,Excellent,no
+7,Medium,Low,Yes,Excellent,yes
+8,Young,Medium,No ,Fair,yes
+9,Young,Low,Yes,Fair,yes
+10,Old,Medium,Yes,Fair,yes
+11,Young,Medium,Yes,Excellent,yes
+12,Medium,Medium,No ,Excellent,yes
+13,Medium,High,Yes,Fair,yes
+14,Old,Medium,No ,Excellent,no
